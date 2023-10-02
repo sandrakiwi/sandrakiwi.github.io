@@ -1,0 +1,46 @@
+
+.module {
+    font-weight: bold;
+    padding: 5px;
+}
+
+.dwes {
+    background-color: #f5da41ba; 
+}
+
+.dwec {
+    background-color: #5eccf1b1; 
+}
+
+.diw {
+    background-color: #26f226a5; 
+}
+
+.eie {
+    background-color: #f2825abd; 
+}
+
+.ing {
+    background-color: #e13e8f95; 
+}
+
+.daw {
+    background-color: #6521eeaa; 
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 2px solid #000; 
+}
+
+
+th {
+    background-color: #007BFF; 
+    color: white; 
+    font-weight: bold;
+}
